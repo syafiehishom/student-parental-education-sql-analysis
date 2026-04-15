@@ -11,6 +11,14 @@ The goal is to uncover patterns between:
 
 ---
 
+## 📊 Dataset
+
+The dataset used in this project is publicly available on Kaggle:
+
+🔗 https://www.kaggle.com/datasets/username/student-performance-data
+
+This dataset is synthetic and created for educational purposes.  
+It is used here for non-commercial data analysis and portfolio demonstration.
 ## 🛠 Tools Used
 - SQL (MySQL)
 - Excel (for dataset handling)
